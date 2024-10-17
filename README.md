@@ -11,7 +11,7 @@ Proyecto de clase para la unidad 2 de la asignatura de Aplicaciones Web Orientad
 
   ## Historial de practicas
 
-|No.|Descripción|Potenciador|Estatus|Fecha|
+|No.|Fecha|Descripción|Potenciador|Estatus|
 |--|--|--|--|-----|
 |1.| 17/10/2024|Repositorio del proyecto|Potenciador|Activa|
 
