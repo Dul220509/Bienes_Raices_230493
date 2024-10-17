@@ -20,6 +20,7 @@ Proyecto de clase para la unidad 2 de la asignatura de Aplicaciones Web Orientad
 
   ### Autor
   **Dulce Yadira Salvador Antonio**  / [@Dul220509](https://github.com/Dul220509)
-  Unidad 2
+  
+  **Unidad 2**
   Aplicaciones Web Orientadas a Servicios
   Octubre 2024 
